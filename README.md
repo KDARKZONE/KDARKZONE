@@ -2,7 +2,7 @@
 
 Hey there, I'm Kauã and my current nickname in internet is KDARKZONE. <br>
 * I'm a student at Technical School of Ceilândia and also finishing them. <br>
-* I'm born in 02/2003.o and been coding since 18 (My first contact with programming redstone logical in minecraft and scratch with cc50). <br>
+* I'm born in 2003/02 and been coding since 18 (My first contact with programming redstone logical in minecraft and scratch with cc50). <br>
 * I enjoy playing videogames 🎮<br>
 
 ## Languages and Tools
